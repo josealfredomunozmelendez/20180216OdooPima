@@ -1,0 +1,5 @@
+suds-py3
+xlrd
+ofxparse
+num2words
+phonenumbers
